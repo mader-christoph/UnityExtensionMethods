@@ -1,5 +1,5 @@
 {
-  "name": "com.cmiv.unity-extension-methods",
+  "name": "at.cmiv.unity-extension-methods",
   "version": "1.0.0",
   "displayName": "CMIVs Unity Extension Methods",
   "description": "A lightweight set of extension methods for Transform and Quaternion operations in Unity.",
