@@ -1,0 +1,14 @@
+{
+    "name": "CMIV.UnityExtensionMethods.Runtime",
+    "rootNamespace": "CMIV.UnityExtensionMethods",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
